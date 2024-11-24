@@ -1,3 +1,5 @@
-## Hi there 👋 Welcome to my page.
+## Welcome!
 
-My name is Evan Cedeno. I am a computer engineering and computer science student passionate about medical technologies, iOS development, artificial intelligence, data science, physics simulations, and UI design.
+My name is Evan Cedeno. I am a software developer passionate about medical technologies, iOS development, artificial intelligence, data science, physics simulation, and UI design.
+
+Check out my first published app called [Watusee](https://github.com/EvanC8/Watusee)!
