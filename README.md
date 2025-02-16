@@ -8,4 +8,5 @@ My name is Evan Cedeno. I am a software developer passionate about medical techn
 
 ## Current Projects
 [Infusinator](https://github.com/EvanC8/Infusinator) | Medication Logger (iOS)
+
 [Map Map](https://github.com/EvanC8/Infusinator) | UW-Madison Campus Navigator (Python)
