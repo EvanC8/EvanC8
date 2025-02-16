@@ -4,7 +4,7 @@ My name is Evan Cedeno. I am a software developer passionate about medical techn
 
 
 ## Published Work
-[Watusee](https://github.com/EvanC8/Watusee) | Create Drawing Application
+[Watusee](https://github.com/EvanC8/Watusee) | Create Drawing Application (iOS)
 
 ## Current Projects
-[Infusinator](https://github.com/EvanC8/Infusinator) | Medication Logger
+[Infusinator](https://github.com/EvanC8/Infusinator) | Medication Logger (iOS)
