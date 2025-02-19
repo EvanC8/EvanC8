@@ -1,6 +1,6 @@
 ## Welcome to my portfolio!
 
-## Contents
+## Topics include:
 * Medical technologies
 * iOS development
 * Machine learning
