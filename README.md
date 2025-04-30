@@ -1,2 +1,2 @@
 ## Welcome to my portfolio!&nbsp;&nbsp;&nbsp;&nbsp;<i>Just following the passion.</i>
-Medical technologies | iOS development | Machine learning | Physics engines
+Medical technologies | iOS development | Machine learning | Data Science | Physics engines
