@@ -1,2 +1,2 @@
 ## Welcome to my portfolio!&nbsp;&nbsp;&nbsp;&nbsp;<i>Just following the passion.</i>
-Medical technologies | Machine learning | Data Science | iOS development | Signal Processing
+Medical Technologies | Machine Learning | Data Science | iOS Development | Signal Processing
