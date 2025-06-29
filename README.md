@@ -1,4 +1,6 @@
 ## Welcome to my portfolio! - A collection of my passion projects
+Machine Learning | Web/iOS development | Signal Processing
+
 ### Current publications:
 * :pencil2: :art: **Watusee®**
   * Creative drawing application | 500+ downloads | v3.0.1
