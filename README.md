@@ -1,2 +1,9 @@
-## Welcome to my portfolio!&nbsp;&nbsp;&nbsp;&nbsp;<i>Just following the passion.</i>
-Machine Learning | Data Science | iOS/Web Development | Signal Processing
+## Welcome to my portfolio!&nbsp;&nbsp;&nbsp;&nbsp;
+### Current publications
+* :pencil2: :art: **Watusee®**
+  * Creative drawing application | 500+ downloads
+  * Download for [iOS](https://apps.apple.com/us/app/watusee/id1633847831)
+  
+* :musical_note: :saxophone: **Natural Tune**
+  * Chromatic instrument tuner
+  * Download for [iOS](https://apps.apple.com/us/app/natural-tune/id6745803612)
