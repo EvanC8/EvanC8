@@ -1,8 +1,8 @@
 ## Welcome to my portfolio! - A collection of my passion projects
 
-🎯 Focus: `Machine Learning` && `Fullstack web/iOS development`
+🎯 Currently exploring `Machine Learning` and `Fullstack web/iOS development`
 
-💡 Other Interests: Signal processing | Biomechanics | Geospatial data science | Physics engines
+💡 Some of my interests include: Medical tech | Signal processing | Biomechanics | Geospatial data science | Physics engines
 
 ### Current publications:
 * :pencil2: :art: **Watusee®**
