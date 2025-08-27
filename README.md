@@ -19,4 +19,4 @@
 
 * :satellite: :first_quarter_moon_with_face:  **Physics & Machine Learning Research**
   * Lunar Crater Age Detection and Age Classification | FNN + CNN Neural Network | 62% Accuracy
-  * [Repo](https://github.com/EvanC8/Lunar-Crater-Age-Classification)
+  * [Paper and code](https://github.com/EvanC8/Lunar-Crater-Age-Classification)
