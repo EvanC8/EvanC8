@@ -4,10 +4,10 @@
 
 💡 Some of my interests include: Medical tech | Signal processing | Biomechanics | Geospatial data science | Physics engines
 
-### Current publications:
+### Recent publications and research:
 * :mag_right: :books: **ResearchRizz.com**
   * Discover research at UW-Madison.
-  * [Link](https://www.researchrizz.com)
+  * [Website](https://www.researchrizz.com)
 
 * :pencil2: :art: **Watusee®**
   * Creative drawing application | 500+ downloads | v3.0.1
@@ -17,5 +17,6 @@
   * Chromatic instrument tuner | v1.0
   * Download for [iOS](https://apps.apple.com/us/app/natural-tune/id6745803612)
 
-### :rocket: What I'm building now:
-  * Check out my pinned repositories below!
+* :satellite: :first_quarter_moon_with_face:  **Physics & Machine Learning Research**
+  * Lunar Crater Age Detection and Age Classification | FNN + CNN Neural Network | 62% Accuracy
+  * [Repo](https://github.com/EvanC8/Lunar-Crater-Age-Classification)
