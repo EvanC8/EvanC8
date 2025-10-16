@@ -1,4 +1,4 @@
-## Welcome to my portfolio! - A collection of my passion projects
+## Welcome to my portfolio!
 
 🎯 Currently exploring `Machine Learning` and `Fullstack web/iOS development`
 
