@@ -2,8 +2,6 @@
 
 🎯 Currently exploring `Machine Learning` and `Fullstack web/iOS development`
 
-💡 Some of my interests include: Medical tech | Signal processing | Biomechanics | Geospatial data science | Physics engines
-
 ### Recent publications and research:
 * :mag_right: :books: **ResearchRizz.com**
   * Discover research at UW-Madison.
