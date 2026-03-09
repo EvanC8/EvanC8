@@ -1,6 +1,6 @@
 ## Welcome to my portfolio!
 
-🎯 Currently exploring `Machine Learning` and `Fullstack web/iOS development`
+:link: [Portfolio Website](evancedeno.com)
 
 ### Deployments:
 * :mag_right: :books: [**ResearchRizz.com**](https://www.researchrizz.com) | Discover research at UW-Madison
