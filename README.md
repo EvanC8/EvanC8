@@ -1,6 +1,6 @@
 ## Welcome to my portfolio!
 
-:link: [Portfolio Website](evancedeno.com)
+:link: [Portfolio Website](https://evancedeno.com)
 
 ### Deployments:
 * :mag_right: :books: [**ResearchRizz.com**](https://www.researchrizz.com) | Discover research at UW-Madison
