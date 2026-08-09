@@ -2,7 +2,7 @@
 
 :link: [Portfolio Website](https://evancedeno.com)
 
-### Deployments:
+### Software Deployments:
 * :mag_right: :books: [**ResearchRizz.com**](https://www.researchrizz.com) | Discover research at UW-Madison
 
 * :pencil2: :art: [**Watusee® iOS**](https://apps.apple.com/us/app/watusee/id1633847831) | Unleash your creativity | 600+ downloads
